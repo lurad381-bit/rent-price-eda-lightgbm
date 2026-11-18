@@ -1,0 +1,11 @@
+data/
+*.csv
+*.json
+*.sqlite
+*.pkl
+!requirements.txt
+.ipynb_checkpoints/
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
